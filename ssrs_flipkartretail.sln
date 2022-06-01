@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ssrs_flipkartretail", "ssrs_flipkartretail\ssrs_flipkartretail.rptproj", "{FC2F1233-6D48-44C4-BD46-B7697F287222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2F1233-6D48-44C4-BD46-B7697F287222}.Debug|Default.ActiveCfg = Debug
+		{FC2F1233-6D48-44C4-BD46-B7697F287222}.Debug|Default.Build.0 = Debug
+		{FC2F1233-6D48-44C4-BD46-B7697F287222}.Debug|Default.Deploy.0 = Debug
+		{FC2F1233-6D48-44C4-BD46-B7697F287222}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{FC2F1233-6D48-44C4-BD46-B7697F287222}.DebugLocal|Default.Build.0 = DebugLocal
+		{FC2F1233-6D48-44C4-BD46-B7697F287222}.Release|Default.ActiveCfg = Release
+		{FC2F1233-6D48-44C4-BD46-B7697F287222}.Release|Default.Build.0 = Release
+		{FC2F1233-6D48-44C4-BD46-B7697F287222}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4AC979E-6281-4658-9DAA-739ABF0CE986}
+	EndGlobalSection
+EndGlobal
